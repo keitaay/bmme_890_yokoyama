@@ -34,17 +34,15 @@ This repository shall be structured as follows:
 >>
 >> Datasets downloaded for use in assignments and projects
 
-***
 
-# Homework 1
+## Homework 1
 ##### NOTE: `testMe.txt` has moved to its appropriate folder.
 
 This assignment involved the creation of a text file using a Unix console, creation and manipulation of a Git repository, and the merging of third-party edits.
 
 `/HW1/testMe.txt` - text file that was appended with entries by multiple users (Katie Heath and Keerthi Anand).
 
-***
 
-# Homework 2
+## Homework 2
 
 This assignment involves the manipulation of the Titanic survivors' dataset at kaggle.com/c/titanic/ using Pandas, as well as a submission to Kaggle.
