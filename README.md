@@ -14,7 +14,7 @@ Local branches are intended to be structured as follows:
 >
 >> **/machine-learning-BMME890/**
 >>
->> fork of github.com/agiovann/machine-learning-BMME890/
+>> fork of <a href="github.com/agiovann/machine-learning-BMME890/">course materials repository</a>
 >
 >> **forks of other files and folders, as necessary for other assignments**
 
@@ -45,4 +45,4 @@ This assignment involved the creation of a text file using a Unix console, creat
 
 ## Homework 2
 
-This assignment involves the manipulation of the Titanic survivors' dataset at kaggle.com/c/titanic/ using Pandas, as well as a submission to Kaggle.
+This assignment involves the manipulation of the Titanic survivors' dataset at <a href="kaggle.com/c/titanic/">Kaggle</a> using Pandas, as well as a submission to Kaggle.
