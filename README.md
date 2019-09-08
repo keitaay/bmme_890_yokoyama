@@ -48,5 +48,7 @@ This assignment involved the creation of a text file using a Unix console, creat
 This assignment involves the manipulation of the Titanic survivors' dataset at <a href="kaggle.com/c/titanic/">Kaggle</a> using Pandas, as well as a submission to Kaggle.
 
 `/HW-02/titanic-analysis.ipynb` - Jupyter notebook describing processing steps for assignment 2A.
+
 `/HW-02/test-output.csv` - CSV outputted dataset from assignment 2A; raw file submitted to Kaggle.
+
 `/HW-02/linAlg-recap.ipynb` - Jupyter notebook with responses for tasks in assignment 2B.
