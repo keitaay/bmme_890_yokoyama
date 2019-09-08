@@ -22,7 +22,7 @@ This repository shall be structured as follows:
 
 > ./
 >
->> **HWn/**
+>> **HW-nn/**
 >>
 >> Submissions, screenshots, code dependencies, and other files for homework # n
 >
@@ -40,9 +40,13 @@ This repository shall be structured as follows:
 
 This assignment involved the creation of a text file using a Unix console, creation and manipulation of a Git repository, and the merging of third-party edits.
 
-`/HW1/testMe.txt` - text file that was appended with entries by multiple users (Katie Heath and Keerthi Anand).
+`/HW-01/testMe.txt` - text file that was appended with entries by multiple users (Katie Heath and Keerthi Anand).
 
 
 ## Homework 2
 
 This assignment involves the manipulation of the Titanic survivors' dataset at <a href="kaggle.com/c/titanic/">Kaggle</a> using Pandas, as well as a submission to Kaggle.
+
+`/HW-02/titanic-analysis.ipynb` - Jupyter notebook describing processing steps for assignment 2A.
+`/HW-02/test-output.csv` - CSV outputted dataset from assignment 2A; raw file submitted to Kaggle.
+`/HW-02/linAlg-recap.ipynb` - Jupyter notebook with responses for tasks in assignment 2B.
