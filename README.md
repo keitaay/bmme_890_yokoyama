@@ -52,3 +52,11 @@ This assignment involves the manipulation of the Titanic survivors' dataset at <
 `/HW-02/test-output.csv` - CSV outputted dataset from assignment 2A; raw file submitted to Kaggle.
 
 `/HW-02/linAlg-recap.ipynb` - Jupyter notebook with responses for tasks in assignment 2B.
+
+## Homework 3
+
+This assignment revisits HW02, but by actually attempting to apply multiple classification algorithms (supervised) to identify survivors of the Titanic.
+
+`/HW-03/MLtitanic.ipynb` - Jupyter notebook with steps to recreate analysis performed to create `test-output.csv`.
+
+`/HW-03/test-output.csv` - CSV outputted dataset from assignment 3; raw file submitted to Kaggle.
