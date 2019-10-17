@@ -1,6 +1,7 @@
 # specific to this repo #
 Notes/
 .ipynb_checkpoints/
+Practice/
 
 # Compiled sources, packages, logs, databases, and OS files #
 *.com
