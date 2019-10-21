@@ -45,7 +45,7 @@ This assignment involved the creation of a text file using a Unix console, creat
 
 ## Homework 2
 
-This assignment involves the manipulation of the Titanic survivors' dataset at <a href="kaggle.com/c/titanic/">Kaggle</a> using Pandas, as well as a submission to Kaggle.
+This assignment involves the manipulation of <a href="kaggle.com/c/titanic/">the Titanic survivors' dataset at Kaggle</a> using Pandas, as well as a submission to Kaggle.
 
 `/HW-02/titanic-analysis.ipynb` - Jupyter notebook describing processing steps for assignment 2A.
 
@@ -60,3 +60,17 @@ This assignment revisits HW02, but by actually attempting to apply multiple clas
 `/HW-03/MLtitanic.ipynb` - Jupyter notebook with steps to recreate analysis performed to create `test-output.csv`.
 
 `/HW-03/test-output.csv` - CSV outputted dataset from assignment 3; raw file submitted to Kaggle.
+
+## "Homework" 99
+
+The student-led lecture on principal component analysis (in collaboration with Katie Heath) is stored in this directory.
+
+Basic concepts behind PCA is described, then demonstrated using datasets for the P300 (event-related potential)-based neurally controlled keyboard as published at http://bnci-horizon-2020.eu/database/data-sets
+
+The P300-based paradigm is a part of the EU-funded open database for brain-machine interfaces, which was made possible by the BNCI Horizon 2020 initiative. The specific application was first published as "Attention and P300-based BCI performance in people with amyotrophic lateral sclerosis" by Andrea Riccio *et al* (2013, *Front. Hum. Neurosci.*).
+
+`/HW-99/description.pdf` - PDF describing the dataset, as provided by the BNCI Horizon 2020 consortium.
+
+`/HW-99/PCA-neuro.ipynb` - Jupyter notebook + Rise presentation to explain PCA and its application in the *Riccio* paper.
+
+`/HW-99/protocol.pptx` - PowerPoint document with original geometry objects for the visual summaries of the study protocol, as seen in the Jupyter notebook. Each image is saved as `protocol-1.png` and `protocol-2.png` in order of appearance.
